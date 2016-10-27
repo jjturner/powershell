@@ -1,0 +1,1 @@
+﻿$rsinstance = Get-WmiObject -Namespace "root\Microsoft\SqlServer\ReportServer\RS_PRD\v12" -class MSReportServer_Instance -ComputerName tpcsqlprd1
